@@ -1,0 +1,7 @@
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/bin/Debug/netstandard1.4/Outspoken.Model.deps.json
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/obj/Debug/netstandard1.4/Outspoken.Model.csprojResolveAssemblyReference.cache
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/obj/Debug/netstandard1.4/Outspoken.Model.AssemblyInfo.cs
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/bin/Debug/netstandard1.4/Outspoken.Model.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/bin/Debug/netstandard1.4/Outspoken.Model.pdb
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/obj/Debug/netstandard1.4/Outspoken.Model.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/Outspoken.Model/obj/Debug/netstandard1.4/Outspoken.Model.pdb

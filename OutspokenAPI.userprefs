@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BE5A17C6-9812-4AB4-BE4E-2CD36BD09F59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OutspokenAPI/Startup.cs">
+    <Files>
+      <File FileName="Outspoken.Data/Repositories/ApplicationInformationHeaderRepository.cs" Line="22" Column="35" />
+      <File FileName="Outspoken.Data/Repositories/EntityBaseRepository.cs" Line="15" Column="10" />
+      <File FileName="OutspokenAPI/Controllers/OutspokenHeaderController.cs" Line="33" Column="1" />
+      <File FileName="Outspoken.Data/Repositories/ApplicationFeatureRequestRepository.cs" Line="1" Column="1" />
+      <File FileName="OutspokenAPI/Controllers/OutspokenFeaturesController.cs" Line="29" Column="4" />
+      <File FileName="Outspoken.Model/ApplicationInformationHeader.cs" Line="12" Column="70" />
+      <File FileName="Outspoken.Model/ApplicationFeatureRequest.cs" Line="12" Column="3" />
+      <File FileName="Outspoken.Data/OutspokenContext.cs" Line="9" Column="42" />
+      <File FileName="OutspokenAPI/appsettings.json" Line="11" Column="72" />
+      <File FileName="OutspokenAPI/Startup.cs" Line="48" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OutspokenAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/roverton/Documents/Sandbox/OutspokenAPI 11.01.39 AM/OutspokenAPI/Controllers/OutspokenHeaderController.cs" relfile="OutspokenAPI/Controllers/OutspokenHeaderController.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

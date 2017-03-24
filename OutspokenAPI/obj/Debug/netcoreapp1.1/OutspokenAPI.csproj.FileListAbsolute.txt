@@ -1,0 +1,13 @@
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/OutspokenAPI.deps.json
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/OutspokenAPI.runtimeconfig.json
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/OutspokenAPI.runtimeconfig.dev.json
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/OutspokenAPI.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/OutspokenAPI.pdb
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/Outspoken.Data.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/Outspoken.Model.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/Outspoken.Data.pdb
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/bin/Debug/netcoreapp1.1/Outspoken.Model.pdb
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/obj/Debug/netcoreapp1.1/OutspokenAPI.csprojResolveAssemblyReference.cache
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/obj/Debug/netcoreapp1.1/OutspokenAPI.AssemblyInfo.cs
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/obj/Debug/netcoreapp1.1/OutspokenAPI.dll
+/Users/roverton/Documents/Sandbox/OutspokenAPI/OutspokenAPI/obj/Debug/netcoreapp1.1/OutspokenAPI.pdb
